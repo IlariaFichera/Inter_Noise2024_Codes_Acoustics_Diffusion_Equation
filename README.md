@@ -90,5 +90,8 @@ Software is being developed by Ilaria Fichera at Eindhoven University of Technol
 ## References
 References are listed in the Internoise Conference Paper.
 
+## CODECHECK
+The CODECHECK certificate can be found at [Zenodo Library](https://zenodo.org/records/14211707) and included as a pdf in this repository.
+
 ## License
 Diffusion Equation Code and Optimization Code are licensed under GNU General Public License v2.0. See LICENSE.md for more details.
